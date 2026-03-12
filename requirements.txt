@@ -6,7 +6,7 @@ pydantic
 numpy
 Pillow
 google-generativeai
-tensorflow
+tensorflow-cpu
 jinja2
 python-jose[cryptography]
 passlib[bcrypt]
