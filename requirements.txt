@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+bcrypt
+pydantic
+numpy
+Pillow
+google-generativeai
+tensorflow
+jinja2
+python-jose[cryptography]
+passlib[bcrypt]
