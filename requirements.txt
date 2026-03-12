@@ -3,10 +3,10 @@ uvicorn
 python-multipart
 bcrypt
 pydantic
-numpy
+numpy==1.26.4
 Pillow
 google-generativeai
-tensorflow-cpu
+tensorflow-cpu==2.15.0
 jinja2
 python-jose[cryptography]
 passlib[bcrypt]
